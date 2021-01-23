@@ -1,0 +1,9 @@
+[10-Dec-2017 12:46:08 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/emrahyuksel/public_html/c2c/nedmin/netting/baglan.php:8
+Stack trace:
+#0 /home/emrahyuksel/public_html/c2c/nedmin/netting/baglan.php(8): PDO->__construct('mysql:host=loca...', 'root', '12345678')
+#1 {main}
+  thrown in /home/emrahyuksel/public_html/c2c/nedmin/netting/baglan.php on line 8
+[13-Dec-2017 17:09:58 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
+[13-Dec-2017 23:32:23 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
+[14-Dec-2017 13:36:23 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
+[29-Dec-2017 14:01:47 Europe/Istanbul] PHP Warning:  unlink(../../dimg/magaza-fotoyok.png): No such file or directory in /home/emrahyuksel/public_html/c2c/nedmin/netting/adminislem.php on line 280
